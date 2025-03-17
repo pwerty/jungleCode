@@ -23,6 +23,5 @@ for i in range(0, 8):
 
 sortedArr = sorted(arr, reverse=False)
 
-print(" --")
 for i in range(7):
     print(sortedArr[i])
