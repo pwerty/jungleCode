@@ -30,3 +30,5 @@ for i in permutations(range(1, cityCnt), cityCnt-1):
             if ans > sub:
                 ans = sub
 print(ans)
+
+# for-else라는 해괴망측함과 permutations라는 사기템을 얻음
