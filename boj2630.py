@@ -1,4 +1,5 @@
 # 쿼드 트리랑 내용이 똑같네
+from pyflowchart import Flowchart
 lineLength = int(input())
 field = [list(map(int,input().strip().split())) for _ in range(lineLength)]
 colorCnt = [0, 0]

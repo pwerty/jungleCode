@@ -24,5 +24,5 @@ caseCnt = int(sys.stdin.readline())
 hanoiCnt = int(getMultiple(caseCnt)) - 1
 print(hanoiCnt)
 
-if(caseNum <= 20):
+if(caseCnt <= 20):
     goHanoi(caseCnt, 1, 3)

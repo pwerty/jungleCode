@@ -1,0 +1,8 @@
+// basic
+graph Undirected {
+	A
+	B
+	C
+	A -- B
+	B -- C
+}
